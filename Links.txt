@@ -1,0 +1,11 @@
+https://gml.noaa.gov/grad/solcalc/
+
+https://gml.noaa.gov/grad/solcalc/calcdetails.html
+
+https://gml.noaa.gov/grad/solcalc/NOAA_Solar_Calculations_day.xls
+
+https://gml.noaa.gov/grad/solcalc/NOAA_Solar_Calculations_year.xls
+
+https://electrical-engineering-portal.com/download-center/electrical-software/calculate-size-of-solar-panel-battery-bank-inverter
+
+https://stackoverflow.com/questions/16086962/how-to-get-a-time-zone-from-a-location-using-latitude-and-longitude-coordinates
